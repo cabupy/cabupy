@@ -8,7 +8,20 @@ const myprofile = {
   firtname: `Carlos`,
   lastname: `Vallejos`,
   company: `Vamyal S.A.`,
-  url: `https://www.vamyal.com`
+  url: `https://www.vamyal.com`,
+  technologies: {
+    frontEnd: {
+      js: ["react", "angular", "vue"],
+      css: ["materialize", "bulma", "bootstrap"],
+      frameworks: ["quasar", "ionic", "bootstrap-vue"]
+    },
+    backEnd: {
+      python: ["console"],
+      js: ["node", "express", "socket.io", "nodemailer"],
+      misc: ["nginx", "systemd", "linux", "docker", "dns"]
+    },
+    databases: ["mongodb", "postgresql", "redis", "oracle", "ingres", "sybase"]
+  },
 }
 ```
 
