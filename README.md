@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### Cabu Vallejos 
+[![Twitter Badge](https://img.shields.io/badge/-Cabu_Vallejos-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/cabuv)](https://twitter.com/cabuv)  [![Linkedin Badge](https://img.shields.io/badge/-Cabu_Vallejos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cvallejos//)](https://www.linkedin.com/in/cvallejos/) [![Gmail Badge](https://img.shields.io/badge/-cabupy@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cabupy@gmail.com)](mailto:cabupy@gmail.com)
+
 ```javascript
 const myprofile = {
   firtname: `Carlos`,
