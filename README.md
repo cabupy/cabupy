@@ -27,6 +27,8 @@ const myprofile = {
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=cabupy&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cabupy)](https://github.com/cabupy/github-readme-stats)
+
 
 ### Connect with me :smiley:
 <a href="https://twitter.com/cabuv" target="_blank">
