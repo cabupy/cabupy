@@ -9,6 +9,9 @@ const myprofile = {
 }
 ```
 
+![github stats](https://github-readme-stats.vercel.app/api?username=cabupy&show_icons=true)
+
+
 ### Connect with me :smiley:
 <a href="https://twitter.com/cabuv" target="_blank">
   <img align="left" alt="Cabu Vallejos Twitter" width="21px" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Ftwitter.svg?alt=media&token=0e4ffc45-d873-47ee-b08c-9b98b4fe66cf" />
