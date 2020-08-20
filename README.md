@@ -7,6 +7,7 @@
 const myprofile = {
   firtname: `Carlos`,
   lastname: `Vallejos`,
+  alias: `Cabu`,
   company: `Vamyal S.A.`,
   url: `https://www.vamyal.com`,
   technologies: {
