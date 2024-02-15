@@ -22,7 +22,7 @@ const myprofile = {
       frameworks: ["angular", "quasar", "ionic", "vue"]
     },
     backend: {
-      languages: ["JS (node)","Python","C","C++","Go","Pascal"]
+      languages: ["JS (node)","Python","C","C++","Go","Pascal"],
       npm: ["express", "socket.io", "nodemailer", "aws-sdk", "@grpc/grpc-js", "and others"],
       infra: ["nginx", "docker", "S3", "kubernetes", "dns", "load balancer", "ssl certificates", "vpn", "2FA+sshkey", "cloud native"]
     },
