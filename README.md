@@ -15,17 +15,18 @@ const myprofile = {
   company: `Vamyal S.A.`,
   url: `https://www.vamyal.com`,
   technologies: {
-    frontEnd: {
-      js: ["react", "angular", "vue"],
-      css: ["materialize", "bulma", "bootstrap"],
-      frameworks: ["quasar", "ionic", "bootstrap-vue"]
+    so: ["linux", "OS X", "Windows"],
+    frontend: {
+      js: ["vanilla js"],
+      css: ["materialize", "bulma", "bootstrap", "tailwind"],
+      frameworks: ["angular", "quasar", "ionic", "vue"]
     },
-    backEnd: {
-      python: ["console"],
-      js: ["node", "express", "socket.io", "nodemailer"],
-      misc: ["nginx", "systemd", "linux", "docker", "dns"]
+    backend: {
+      languages: ["JS (node)","Python","C","C++","Go","Pascal"]
+      npm: ["express", "socket.io", "nodemailer", "aws-sdk", "@grpc/grpc-js", "and others"],
+      infra: ["nginx", "docker", "S3", "kubernetes", "dns", "load balancer", "ssl certificates", "vpn", "2FA+sshkey", "cloud native"]
     },
-    databases: ["mongodb", "postgresql", "redis", "oracle", "ingres", "sybase"]
+    databases: ["mongodb", "postgresql", "redis", "oracle", "ingres", "sybase", "db2"]
   },
 }
 ```
