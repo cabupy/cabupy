@@ -2,7 +2,7 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Nice to see you !</h1>
 
-<p>Welcome to my page! </br> I'm Cabu, Fullstack developer from <img src="https://image.flaticon.com/icons/svg/197/197376.svg" width="13"/> <b>Asunción, Paraguay</b>. </p>
+<p>Welcome to my page! </br> I'm Cabu, Software engineer from <img src="https://cdn-icons-png.flaticon.com/512/630/630623.png" width="13"/> <b>Asunción, Paraguay</b>. </p>
 
 ### Cabu Vallejos 
 [![Twitter Badge](https://img.shields.io/badge/-Cabu_Vallejos-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/cabuv)](https://twitter.com/cabuv)  [![Linkedin Badge](https://img.shields.io/badge/-Cabu_Vallejos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cvallejos//)](https://www.linkedin.com/in/cvallejos/) [![Gmail Badge](https://img.shields.io/badge/-cabupy@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cabupy@gmail.com)](mailto:cabupy@gmail.com)
